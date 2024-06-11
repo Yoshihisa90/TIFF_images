@@ -19,6 +19,9 @@ We included all 76 available images from the Nikon D40. The remaining 224 images
 
 These images are freely available for use in research and publications. When using this dataset, please cite the original source as follows:
 
+"D.-T. Dang-Nguyen, C. Pasquini, V. Conotter, G. Boato, RAISE – A Raw Images Dataset for Digital Image Forensics, ACM Multimedia Systems, Portland, Oregon, March 18-20, 2015"
+
+"<TBD> - A lightweight double compression detector for HEIF images based on encoding information"
 
 
 
